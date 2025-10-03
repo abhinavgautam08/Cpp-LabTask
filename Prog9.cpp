@@ -1,8 +1,8 @@
-// Create a class Rational to represent rational numbers with attributes 
-// numerator and denominator, implementing default, parameterized, and copy 
-// constructors, methods to add, subtract, multiply, and divide rational 
-// numbers, overloading the << and >> operators for input and output, and a 
-// friend function to compare two rational numbers.
+//Create a class Rational to represent rational numbers with attributes 
+//numerator and denominator, implementing default, parameterized, and copy 
+//constructors, methods to add, subtract, multiply, and divide rational 
+//numbers, overloading the << and >> operators for input and output, and a 
+//friend function to compare two rational numbers.
 
 #include<iostream>
 using namespace std;
