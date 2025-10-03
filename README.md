@@ -2,9 +2,11 @@
 
 <div align="center">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" align="right" width="150px" alt="C++ Logo"/>
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/abhinavgautam08/labtask-cpp?style=for-the-badge)
+![License](https://img.shields.io/badge/license-No%20License-red.svg?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/abhinavgautam08/Cpp-LabTask?style=for-the-badge)
 
 **A collection of C++ programming exercises and lab assignments focused on fundamental concepts and problem-solving**
 
@@ -97,8 +99,8 @@ xcode-select --install
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/abhinavgautam08/labtask-cpp.git
-cd labtask-cpp
+git clone https://github.com/abhinavgautam08/Cpp-LabTask.git
+cd Cpp-LabTask
 ```
 
 2. **Verify compiler installation**
@@ -173,7 +175,7 @@ Run each compiled program to test functionality:
 ## 📁 Project Structure
 
 ```
-labtask-cpp/
+Cpp-LabTask/
 │
 ├── Prog1.cpp          # Basic C++ programming concepts
 ├── Prog2.cpp          # Control flow and loops
@@ -182,17 +184,6 @@ labtask-cpp/
 ├── Prog5.cpp          # Object-oriented programming
 └── README.md          # Project documentation
 ```
-
----
-
-## 🗺️ Project Roadmap
-
-- [x] **Phase 1**: Basic syntax and I/O operations
-- [x] **Phase 2**: Control structures implementation
-- [ ] **Phase 3**: Advanced data structures (Linked Lists, Stacks, Queues)
-- [ ] **Phase 4**: Algorithm implementations (Sorting, Searching)
-- [ ] **Phase 5**: File handling and stream operations
-- [ ] **Phase 6**: Template programming and STL
 
 ---
 
@@ -209,8 +200,8 @@ Contributions are welcome! Whether it's bug fixes, new features, or improved doc
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/labtask-cpp.git
-   cd labtask-cpp
+   git clone https://github.com/YOUR_USERNAME/Cpp-LabTask.git
+   cd Cpp-LabTask
    ```
 
 3. **Create a feature branch**
@@ -248,12 +239,6 @@ Contributions are welcome! Whether it's bug fixes, new features, or improved doc
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - C++ Standard Library Documentation
@@ -265,9 +250,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Contact
 
-**Abhinav Gautam** - [@abhinavgautam08](https://github.com/abhinavgautam08)
+**Abhinav Adarsh** - [@abhinavgautam08](https://github.com/abhinavgautam08)
 
-Project Link: [https://github.com/abhinavgautam08/labtask-cpp](https://github.com/abhinavgautam08/labtask-cpp)
+Project Link: [https://github.com/abhinavgautam08/Cpp-LabTask](https://github.com/abhinavgautam08/Cpp-LabTask)
 
 ---
 
@@ -275,6 +260,6 @@ Project Link: [https://github.com/abhinavgautam08/labtask-cpp](https://github.co
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by [Abhinav Gautam](https://github.com/abhinavgautam08)
+Made with ❤️ by [Abhinav Adarsh](https://github.com/abhinavgautam08)
 
 </div>
