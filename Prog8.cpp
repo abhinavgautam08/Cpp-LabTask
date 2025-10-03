@@ -1,6 +1,6 @@
-//Write a C++ program to find all unique palindromic substrings in a given 
-//string. The function should take a string as input and return a set of strings 
-//containing all unique palindromic substrings. 
+// Write a C++ program to find all unique palindromic substrings in a given 
+// string. The function should take a string as input and return a set of strings 
+// containing all unique palindromic substrings. 
 
 #include <iostream>
 #include <unordered_set>
