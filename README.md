@@ -1,5 +1,3 @@
-# 🚀 CPP Lab Tasks
-
 <div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" align="right" width="150px" alt="C++ Logo"/>
@@ -25,47 +23,6 @@ This repository contains a curated collection of C++ programming lab tasks desig
 - Practicing algorithmic problem-solving
 - Preparing for coding assessments
 - Building a portfolio of C++ projects
-
----
-
-## ✨ Programs
-
-<table>
-<thead>
-<tr>
-<th>Program</th>
-<th>Description</th>
-<th>Concepts Covered</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>Prog1.cpp</code></td>
-<td>Introduction to basic C++ syntax and operations</td>
-<td>Variables, Input/Output, Basic Operations</td>
-</tr>
-<tr>
-<td><code>Prog2.cpp</code></td>
-<td>Control structures and conditional logic</td>
-<td>If-else, Loops, Decision Making</td>
-</tr>
-<tr>
-<td><code>Prog3.cpp</code></td>
-<td>Functions and modular programming</td>
-<td>Function Declaration, Parameters, Return Values</td>
-</tr>
-<tr>
-<td><code>Prog4.cpp</code></td>
-<td>Arrays and string manipulation</td>
-<td>Arrays, Strings, Iteration</td>
-</tr>
-<tr>
-<td><code>Prog5.cpp</code></td>
-<td>Object-oriented programming concepts</td>
-<td>Classes, Objects, Encapsulation</td>
-</tr>
-</tbody>
-</table>
 
 ---
 
