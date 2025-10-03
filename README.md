@@ -3,7 +3,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" align="right" width="150px" alt="C++ Logo"/>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![License](https://img.shields.io/badge/license-No%20License-red.svg?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/abhinavgautam08/Cpp-LabTask?style=for-the-badge)
 
 **A collection of C++ programming exercises and lab assignments focused on fundamental concepts and problem-solving**
