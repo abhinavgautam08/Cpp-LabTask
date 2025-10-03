@@ -5,12 +5,7 @@
 <p align="left">
 	<em><code>❯ abhinavgautam08</code></em>
 </p>
-<p align="left">
-	<img src="https://img.shields.io/github/license/abhinavgautam08/labtask-cpp?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/abhinavgautam08/labtask-cpp?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/abhinavgautam08/labtask-cpp?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/abhinavgautam08/labtask-cpp?style=default&color=0080ff" alt="repo-language-count">
-</p>
+
 <p align="left"><!-- default option, no dependency badges. -->
 </p>
 <p align="left">
