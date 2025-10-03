@@ -7,8 +7,6 @@
 
 **A collection of C++ programming exercises and lab assignments focused on fundamental concepts and problem-solving**
 
-[Getting Started](#-getting-started) • [Programs](#-programs) • [Contributing](#-contributing)
-
 </div>
 
 ---
